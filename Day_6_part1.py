@@ -2,7 +2,7 @@ import numpy as np
 import re
 
 # open instructions
-file = open('day6.txt')
+file = open('day6_input.txt')
 instructions = file.readlines()
 file.close
 
